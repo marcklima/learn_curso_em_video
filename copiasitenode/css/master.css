@@ -1,0 +1,122 @@
+body{
+  height: 900px;
+  margin: 0px;
+  color: ghostwhite;  }
+
+header{
+
+ padding: 20px;
+  text-align: center;
+  margin: 0px;
+  background-color:#233056;   }
+
+a{
+  width: 122px;
+  height: 75;  }
+
+  p{
+   margin: 0px;
+  }
+
+#nitro p{
+ color: #00ff00;
+ font-size: 130%;
+ font-family: Arial;
+ opacity: 0.7;
+padding: 5px;
+margin: 5px;}
+
+
+
+#nitro p:hover{
+ opacity: 1;
+ color: white;
+ background-color: #00bf20;
+
+}
+
+/*logo*/
+
+
+#logo{  display: inline-block;  }
+
+a, a:link, a:active {
+    color: #43853d; /* cor ver do nodejs*/
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+
+
+    /*-------------   menu header   ------------*/
+nav#menu {
+    display: block;
+}
+
+
+ul{
+ margin:  0px;
+}
+
+nav#menu ul li::before {
+  content: "|"; /* Insert content that looks like bullets */
+  padding-right: 8px;
+  color: #999; /* Or a color you prefer */
+}
+
+nav#menu ul li{
+  color: #999;
+  text-transform: uppercase;
+  font-family: Arial;
+  padding: 1px 10px 1px 10px;
+  text-align: center;
+  display: inline;
+  margin: 3px 0px 3px 0px;
+/*border-right: 1px solid white ;*/}
+
+nav#menu ul li:hover{
+    color: #999;
+    text-decoration: underline ;  }
+
+  /* ----------    body da pagina   --------*/
+
+.container{
+ background-color: #333;
+ font-family: Arial;
+ margin: 0px;
+ padding: 0px;}
+
+main#main{
+    background-color: #333;
+    margin: 0px;
+    padding-bottom: 40px;
+    text-align: center;   }
+
+#switchs{
+  background-color: #333;
+  background-color: black;
+  width: auto;
+  margin: 0px;
+  padding: 0px;}
+
+  #nitro{
+
+   border-radius: 7px;
+   background-color: #1f2f2b;
+    margin-top: 1em;
+   margin: 5px 20% 0px 20%;
+   padding: 10px;
+   width: 60%;
+   display: block;
+    float: center;
+  }
+
+    /* ------------  footer  -----------  */
+
+.footer{
+
+ padding: 0px;
+ margin: 0px;
+     height: auto;
+    width: auto;
+    background-color:#233056;   }
