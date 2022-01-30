@@ -19,8 +19,6 @@ function inLIsta(n, l){
     }
 }
 
-
-
 function adicionar(){
     if(isNumero(num.value) && !inLIsta(num.value, valores)){
         window.alert ("tudo ok !")
