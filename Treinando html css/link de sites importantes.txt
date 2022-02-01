@@ -1,0 +1,44 @@
+site com menus CSS
+https://freefrontend.com/css-menu/
+
+site com modelos de em CSS onde é possivel vender modelos
+https://codepen.io/trending
+
+
+modelo sde animação CSS:
+https://codepen.io/ma_suwa/pen/eYdZVML
+
+
+modelos de css com codigo
+https://webdeasy.de/top-css-navigation-menus/
+
+https://www.littlesnippets.net/blog/some-css-menu-inspiration-using-animated-lines
+
+https://freefrontend.com/css-animation-examples/
+
+https://codepen.io/trending?cursor=ZD0wJm89MCZwPTI=
+
+
+Aprender desenvolvimento web é uma jornada e, para isso, você precisaria de um roteiro.
+ Um dos maiores desafios enfrentados por novos desenvolvedores ao aprender desenvolvimento
+ web é não saber por onde começar, o que aprender ou o caminho para atingir seus objetivos.
+Roadmap.sh é um esforço da comunidade para criar roteiros, guias e outros conteúdos
+ educacionais para ajudar a orientar os desenvolvedores na escolha do caminho e orientar 
+ seus aprendizados.
+Leia o mapa fornece guias visuais para download contendo tópicos, ferramentas, idiomas e 
+todos os detalhes necessários para orientar um desenvolvedor noob em sua jornada para o
+ domínio do desenvolvimento web.
+https://roadmap.sh/
+
+O Freecode camp é um extenso Bootcamp de codificação online de código aberto que 
+oferece treinamento e certificação gratuitos em uma ampla gama de habilidades de 
+desenvolvimento web. Algumas das certificações oferecidas pelo Freecodecamp são 
+Web design, desenvolvimento front-end, visualização de dados, desenvolvimento 
+back-end e API, aprendizado de máquina, garantia de qualidade, análise de dados, 
+segurança da informação e muito mais.
+Com cerca de 40.000 graduados do freeCodeCamp.org, trabalhando em grandes empresas 
+de tecnologia em todo o mundo, o Freecodecamp é a plataforma de treinamento on-line 
+mais abrangente e extensa desta lista. E seus cursos são todos gratuitos.
+https://www.freecodecamp.org/
+
+https://www.stepsize.com/blog/top-20-web-development-learning-resources

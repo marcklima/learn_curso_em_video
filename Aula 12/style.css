@@ -1,0 +1,36 @@
+body{
+    background: 
+    rgb(176, 226, 241);
+    font: arial 15pt italic;
+    color: rgb(44, 167, 167);
+    text
+}
+header{
+    text-align: center;
+    color: azure;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    font-style: italic;
+    padding: 15px;;
+    margin: auto; /*centraliza a section na tela*/
+    width: 500px;;
+    text-align: center;
+    box-shadow: 7px 7px 14px rgba(8, 8, 8, 0.26);
+}
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(57, 78, 78);
+    text-align: center;
+    text-shadow: 7px 7px 14px gray;
+
+}
+
+h1{
+    text-shadow: 7px 7px 14px gray;
+}
+h3{
+    color: black;
+}
