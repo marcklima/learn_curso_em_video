@@ -1,6 +1,6 @@
-let num = document.querySelector('input#fnum')
-let lista = document.querySelector('select#flista')
-let res = document.querySelector('div#res')
+let num = document.querySelector(`input#fnum`)
+let lista = document.querySelector(`select#flista`)
+let res = document.querySelector(`div#res`)
 let valores = []
 
 function isNumero(n){
@@ -11,38 +11,23 @@ function isNumero(n){
     }
 }
 
-function inLIsta(n, l){
-    if (l.indexOf(Number(n))!= -1){
+function inLista(n, l){
+    if (l.indexOf(Number(n)) != -1){
         return true
     }else{
         return false
     }
 }
 
-function adicionar(){
-    if(isNumero(num.value) && !inLIsta(num.value, valores)){
-        window.alert ("tudo ok !")
+function adicionar(){  
+    if(isNumero(num.value) && !inLista(num.value, valores)){
+        valores.push(Number(num.value))
+        let item = document.createElement(`option`)
+        item.text = `Valor ${num.value} adicionado.`
+        lista.appendChild(item)
     } else{
-        window.alert("valor encontrado ou ja esta na lista")
+        window.alert(`valor encontrado ou ja esta na lista`)
     }
-
+    num.value =``
+    num.focus()
 }
-
-
-
-
-
-
-
-/*  function parImp(n){
-    if (n % 2 ==0 ){
-        return 'Par' ;
-    } else {
-        return  ' Impar ';
-    }
-}
-
-let res = parImp(4);
-console.log(res);
-
-*/

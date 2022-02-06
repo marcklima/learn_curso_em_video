@@ -1,0 +1,37 @@
+
+Modelos de exercisio a serem feitos
+https://www.programiz.com/javascript/examples
+
+compilador online
+https://www.programiz.com/javascript/online-compiler/
+
+compilador online
+https://playcode.io/
+
+guia de estudo 
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/explore-differences-between-the-var-and-let-keywords
+
+radio para estudar
+https://coderadio.freecodecamp.org/
+
+pesquisa
+https://www.w3schools.com/jsref/met_element_queryselector.asp
+
+tutor fornt end
+https://www.frontendmentor.io/solutions
+
+https://www.hackerearth.com/pt-br/challenges/
+
+https://www.codechef.com/
+
+https://www.codingame.com/start
+
+https://www.frontendmentor.io/home
+
+https://www.codewars.com/users/sign_in
+
+https://www.codewell.cc/challenges
+
+https://lab.reaal.me/jsrobot/
+
+https://www.hackerearth.com/pt-br/challenges/
