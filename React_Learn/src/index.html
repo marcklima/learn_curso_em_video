@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+  <h1>JavaScript</h1>
+  <h2>My First JavaScript</h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+<p id="teste"></p>
+<button type="button" name="button" onclick="document.getElementById(`teste`).innerHTML = Date()">Click e veja a data</button>
+
+<p class="teste">TESTE</p>
+<button type="button" name="button" onclick="document.getElementsByClassName(`.teste`).innerHTML=alert(`hello`)">click e teste com classe</button>
+
+<form id="form">
+  <input type="text" placeholder="preencha com um texto aqui">
+  <input type="password" placeholder="digite sua senha nesse campo">
+</form>
+</body>
+</html>
